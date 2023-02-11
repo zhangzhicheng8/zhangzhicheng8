@@ -4,7 +4,7 @@
     "minSendable": 1,
     "maxSendable": 10000000000,
     "callback": "https://zhangzhicheng8.github.io/.well-known/lnurlp/Zhang Zhicheng",
-    "metadata": "[[\"text/Zhang Zhicheng\",\"bc1qtvakmmj8paf6kawyppklyfn872492r445yfllh\"],[\"text/identifier\",\"Zhang Zhicheng@zhangzhicheng8.github.io\"]]",
+    "metadata": "[[\"text/Zhang Zhicheng\",\"lnbc1p37w4f9pp56jtng0hjpxaxrm0468cm850jaz472spwngq3seq9pe5pu2n40z4qdqu2askcmr9wssx7e3q2dshgmmndp5scqzpgxqyz5vqsp5lyjwywj6fms472qzlujztr3fqeevju00y06s2cg84fdxxaj0qzfq9qyyssqrmkxt3qxms9853z6klsglmzxnrj0vfgscf92mqaqkwgga9r40flpdjuzzeum06je5lft8ngz2f80g7kq83a93ts0l7vn6d8aru5870gqsznw6m\"],[\"text/identifier\",\"Zhang Zhicheng@zhangzhicheng8.github.io\"]]",
     "allowsNostr": true,
     "nostrPubkey": "d22dfbdda9dbd7183a6543ac13c66d6623143e483984b893d76829bfcb66f24e",
     "commentAllowed": 500
