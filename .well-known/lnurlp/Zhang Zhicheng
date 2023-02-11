@@ -4,7 +4,7 @@
     "minSendable": 1,
     "maxSendable": 10000000000,
     "callback": "https://zhangzhicheng8.github.io/.well-known/lnurlp/Zhang Zhicheng",
-    "metadata": "[[\"text/Zhang Zhicheng\",\"bitcoin:bc1q9yz8g2u0cqykyn5nvn30j30m5kde9djjy2trkk?label=1000\"],[\"text/identifier\",\"Zhang Zhicheng@zhangzhicheng8.github.io\"]]",
+    "metadata": "[[\"text/Zhang Zhicheng\",\"bitcoin:bc1q9yz8g2u0cqykyn5nvn30j30m5kde9djjy2trkk\"],[\"text/identifier\",\"Zhang Zhicheng@zhangzhicheng8.github.io\"]]",
     "allowsNostr": true,
     "nostrPubkey": "d22dfbdda9dbd7183a6543ac13c66d6623143e483984b893d76829bfcb66f24e",
     "commentAllowed": 500
